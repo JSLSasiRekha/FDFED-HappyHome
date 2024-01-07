@@ -1,0 +1,11 @@
+.hover_categories:hover{
+    transition: all 1s ease-in-out;
+    width:150px ;
+   
+
+
+}
+.text-black {
+    --mdb-text-opacity: 1;
+    color: rgba(var(--mdb-white-rgb), var(--mdb-text-opacity)) !important;
+}
