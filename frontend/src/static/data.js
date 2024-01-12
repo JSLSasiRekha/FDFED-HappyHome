@@ -28,14 +28,15 @@ export const navItems = [
          type:"Total Client"
   
       },
-     { 
-          number:"7+",
-          type:"Years Experience"
-    },
+   
      { 
           number:"523",
           type:"Project Completed"
       },
+      { 
+        number:"7+",
+        type:"Years Experience"
+  },
       {
           number:"36",
           type:"Expert Team"
