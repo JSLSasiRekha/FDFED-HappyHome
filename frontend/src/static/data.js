@@ -21,6 +21,27 @@ export const navItems = [
       url: "/faq",
     },
   ];
+  export const HomePageData=[
+   
+     {
+         number:"1.5K",
+         type:"Total Client"
+  
+      },
+     { 
+          number:"7+",
+          type:"Years Experience"
+    },
+     { 
+          number:"523",
+          type:"Project Completed"
+      },
+      {
+          number:"36",
+          type:"Expert Team"
+      }
+  
+    ]
   
   // branding data
   export const brandingData = [
