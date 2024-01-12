@@ -35,9 +35,9 @@ const ShopLogin = () => {
   };
 
   return (
-    <div className="min-h-screen bg-blue-100 flex justify-center py-12 sm:px-6 lg:px-8" >
+    <div className="min-h-screen bg-black flex justify-center py-12 sm:px-6 lg:px-8" >
       <div className="w-1/2 p-8 ml-20 mt-48 font-extrabold text-6xl" >
-      <div className="text-blue-900" >
+      <div className="text-white" >
           <h1>The best offer for</h1>
        
           <h1>your service</h1>

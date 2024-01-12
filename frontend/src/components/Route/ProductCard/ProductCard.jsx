@@ -72,12 +72,12 @@ const ProductCard = ({ data,isEvent }) => {
   return (
     <>
      {/* //write for new product card */}
-     <MDBContainer fluid className="my-5 h-96 w-auto">
+     <MDBContainer fluid className="my-5">
     <MDBRow>
-      <MDBCol md="12" lg="4" className="mb-4 mb-lg-0 h-80">
+      <MDBCol md="12" lg="4" className="mb-4 mb-lg-0">
         <MDBCard>
-          <div className="d-flex  p-3">
-            <p className="lead mb-0 mr-3"> Combo Offer</p>
+          <div className="d-flex justify-content-between p-3">
+            <p className="lead mb-0"> Combo Offer</p>
             <div
               className="bg-black rounded-circle d-flex align-items-center justify-content-center shadow-1-strong"
               style={{ width: "35px", height: "35px" }}
