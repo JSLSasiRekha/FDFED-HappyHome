@@ -107,7 +107,7 @@ const AllWithdraw = () => {
     });
   return (
     <div className="w-full flex items-center pt-5 justify-center">
-      <div className="w-[95%] bg-white">
+      <div className="w-[95%] bg-[#DBEAFE]">
         <DataGrid
           rows={row}
           columns={columns}
